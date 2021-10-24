@@ -8,7 +8,6 @@ public class Constant {
     }
 
     public static class Urls {
-
         public static final String ROZETKA_HOME_PAGE = "https://rozetka.com.ua/";
     }
 }
